@@ -1,24 +1,27 @@
-# Supermarket Ordering, Invoicing and Sales
+<div align='center'> <h1> SUPERMARKET ORDERING, INVOICING AND SALES </div> 
 
 #### Tools used: Excel, MS SQL Server
 
-**Dataset used**
+**[Dataset used](https://www.kaggle.com/datasets/thedevastator/supermarket-ordering-invoicing-and-sales-analysi?select=OrderLeads.csv)**
 
-**SQL Analysis-code**
+**[SQL Analysis-code](https://github.com/Weefred/Supermarket_OIS/blob/main/Supermarket%20OIS.sql)**
 
-### About
+## About
 
 This project delves into a rich dataset comprising three interconnected tables: Invoice, Order Leads, and Sales Team. These tables show important details about orders, lead conversion, and the sales team. By analyzing this data, actionable insights can be uncovered to optimize business strategies within the industry.
 
-### About Data
+## About Data
 
 The dataset was obtained from the Supermarket Ordering, Invoicing, and Sales Data. This dataset contains meal sales information from a supermarket between 2014 and 2018. The data consists of 3 tables and 18 columns.
 
-### Business Problem
+## Business Problem
 
 In the food industry, challenges abound, from meeting diverse consumer preferences to navigating a competitive landscape while adhering to stringent regulations. By analyzing sales data, lead conversion, and sales team dynamics, we seek to identify opportunities for enhancing sales performance and maximizing revenue generation.
 
-### Insights
+## Business Questions and Answers
+**[Click here](https://github.com/Weefred/Supermarket_OIS/blob/main/Business%20Questions%20and%20Answers.pdf)**
+
+## Insights
 
 1.	The conversion rate of 0.17 indicates that approximately 17.03% of leads or prospects are being converted into actual sales. Analyzing factors such as sales tactics and customer engagement can help identify opportunities to increase conversion rate.
 
@@ -32,7 +35,7 @@ In the food industry, challenges abound, from meeting diverse consumer preferenc
 
 6.	Carol Miller, Gene Nerad, and Ethel Tupper achieved the highest number of conversions among the sales representatives, with close figures at 405, 404, and 403 respectively. While Beverly Smith and Jeffrey Brindle had the lowest conversion numbers at 18 each.
 
-### Recommendations
+## Recommendations
 
 1.	**Leverage Breakfast Success**: Consider promoting breakfast offerings more aggressively or introducing new menu items to capitalize on this trend.
    
